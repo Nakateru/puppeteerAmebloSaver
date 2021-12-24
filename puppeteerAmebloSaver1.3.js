@@ -89,7 +89,6 @@ const prompts = require('prompts');
     console.timeEnd('Processing time');
 
     console.log('Done!');
-    // process.exit();
 
     //----------------Function-----------------------------------------
     //analyze url function
