@@ -18,10 +18,10 @@ Be able to save video in the entry
 
 Be able to save different type of image
 
-Some Changes about Printed information 
+Some Changed about Printed information 
     
 ## v1.3
 
-Using prompts module
+Used prompts module
 
-Add processing time
+Added processing time
